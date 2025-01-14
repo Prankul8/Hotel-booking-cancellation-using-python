@@ -34,7 +34,7 @@ The **"Hotel Booking Cancellation"** dataset contains **119,390 entries** with *
 
 
 
-## Business Problem 🎯
+## Business Problem 
 
 City Hotels and Resort Hotels have observed high cancellation rates, resulting in:
 
@@ -109,7 +109,7 @@ This project provides actionable insights into the factors influencing hotel can
 
 ---
 
-## Report 🔎
+## Report 
 
 This project was conducted using data analysis techniques in Python.
 
